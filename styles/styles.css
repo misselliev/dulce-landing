@@ -1,0 +1,32 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.h1, .h2, .h4 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.top-blue {
+  background-color: hsl(193, 100%, 96%);
+}
+
+.pink-button {
+  background-color: hsl(322, 100%, 66%);
+}
+
+.bottom-section {
+  background-color: hsl(192, 100%, 9%);
+}
+
+.action {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.rounded-button {
+  border-radius: 40%;
+}
